@@ -21,7 +21,7 @@ hackathons = {
 def hello_ghw():
 	return "<p>Thanks, 404, for all the help!!!</p>"
 
-@app.route('/getHackathons' , methods=['GET'])
+@app.route('/getHackathons', methods=['GET'])
 def getHackathons():
 	return hackathons
 
