@@ -12,7 +12,7 @@ hackathons = {
 	"Bitcamp": {
 		"start_date": "2023-04-07 12:00:00",
 		"end_date":"2023-04-09 12:00:00",
-		"location": "Everywhere, Online",
+		"location": "College Park, Maryland",
 		"type": "In-Person Only"
 	}
 }
